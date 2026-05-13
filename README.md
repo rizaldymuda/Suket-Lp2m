@@ -16,7 +16,7 @@ TailwindCSS
 MySQL
 Demo
 
-https://suket.staimh.ac.id/
+https://lp2m.staimh.ac.id/
 
 Developer
 
